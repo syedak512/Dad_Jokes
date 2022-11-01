@@ -1,2 +1,2 @@
 # Dad Jokes
- This site will give you random dad jokes make your day better.
+ This site will give you random dad jokes and hopefully make your day better.
